@@ -6,3 +6,8 @@ a {
 body {
     background-color: gray;
 }
+
+header {
+    background-color: purple;
+    color: white;
+}
